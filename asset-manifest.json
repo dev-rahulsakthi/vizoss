@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vizoss/static/css/main.130dcac5.css",
+    "main.js": "/vizoss/static/js/main.2c28f086.js",
+    "static/js/453.a77fc7fe.chunk.js": "/vizoss/static/js/453.a77fc7fe.chunk.js",
+    "index.html": "/vizoss/index.html",
+    "main.130dcac5.css.map": "/vizoss/static/css/main.130dcac5.css.map",
+    "main.2c28f086.js.map": "/vizoss/static/js/main.2c28f086.js.map",
+    "453.a77fc7fe.chunk.js.map": "/vizoss/static/js/453.a77fc7fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.130dcac5.css",
+    "static/js/main.2c28f086.js"
+  ]
+}
