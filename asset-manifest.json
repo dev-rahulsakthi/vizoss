@@ -1,14 +1,22 @@
 {
   "files": {
-    "main.css": "/vizoss/static/css/main.5db3ac23.css",
-    "main.js": "/vizoss/static/js/main.5367d29a.js",
+    "main.css": "/vizoss/static/css/main.e0295d30.css",
+    "main.js": "/vizoss/static/js/main.79f3273b.js",
     "static/js/453.a77fc7fe.chunk.js": "/vizoss/static/js/453.a77fc7fe.chunk.js",
     "static/media/fa-solid-900.ttf": "/vizoss/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/vizoss/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/fa-solid-900.woff2": "/vizoss/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
     "static/media/fa-brands-400.woff2": "/vizoss/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/schoolmanage.png": "/vizoss/static/media/schoolmanage.319a40ae6cde387354d7.png",
     "static/media/fa-regular-400.ttf": "/vizoss/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/dm.png": "/vizoss/static/media/dm.4010ff8f5ec4c007abdd.png",
+    "static/media/ecommerce.png": "/vizoss/static/media/ecommerce.3783c096bf7b65ff5243.png",
+    "static/media/billings.png": "/vizoss/static/media/billings.dd65ecbf0718e1992506.png",
+    "static/media/logo2.png": "/vizoss/static/media/logo2.60653959aeaacc0efe94.png",
+    "static/media/python.png": "/vizoss/static/media/python.4acd40975782e2dbbd21.png",
     "static/media/fa-regular-400.woff2": "/vizoss/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/mern.png": "/vizoss/static/media/mern.6a4ff65ad343ed595bf1.png",
+    "static/media/cloud.png": "/vizoss/static/media/cloud.e9f02c4e52d53af4b817.png",
     "static/media/fa-v4compatibility.ttf": "/vizoss/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/vizoss/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "static/media/slick.svg": "/vizoss/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -16,12 +24,12 @@
     "static/media/slick.ttf": "/vizoss/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/vizoss/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/vizoss/index.html",
-    "main.5db3ac23.css.map": "/vizoss/static/css/main.5db3ac23.css.map",
-    "main.5367d29a.js.map": "/vizoss/static/js/main.5367d29a.js.map",
+    "main.e0295d30.css.map": "/vizoss/static/css/main.e0295d30.css.map",
+    "main.79f3273b.js.map": "/vizoss/static/js/main.79f3273b.js.map",
     "453.a77fc7fe.chunk.js.map": "/vizoss/static/js/453.a77fc7fe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5db3ac23.css",
-    "static/js/main.5367d29a.js"
+    "static/css/main.e0295d30.css",
+    "static/js/main.79f3273b.js"
   ]
 }
