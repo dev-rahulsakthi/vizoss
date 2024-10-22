@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vizoss/static/css/main.5db3ac23.css",
-    "main.js": "/vizoss/static/js/main.189cfd45.js",
+    "main.js": "/vizoss/static/js/main.5367d29a.js",
     "static/js/453.a77fc7fe.chunk.js": "/vizoss/static/js/453.a77fc7fe.chunk.js",
     "static/media/fa-solid-900.ttf": "/vizoss/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/vizoss/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
@@ -17,11 +17,11 @@
     "static/media/slick.woff": "/vizoss/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/vizoss/index.html",
     "main.5db3ac23.css.map": "/vizoss/static/css/main.5db3ac23.css.map",
-    "main.189cfd45.js.map": "/vizoss/static/js/main.189cfd45.js.map",
+    "main.5367d29a.js.map": "/vizoss/static/js/main.5367d29a.js.map",
     "453.a77fc7fe.chunk.js.map": "/vizoss/static/js/453.a77fc7fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5db3ac23.css",
-    "static/js/main.189cfd45.js"
+    "static/js/main.5367d29a.js"
   ]
 }
